@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "Choc": "0",
+            "MX": "1",
+            "Tol": "0",
+            "draftAngle": "0",
+            "extra_vertical": "0.59999999999999998",
+            "fn": "60",
+            "layers": "50",
+            "slop": "0.29999999999999999",
+            "stemCrossHeight": "4",
+            "stemLayers": "50",
+            "stemLen": "5.5499999999999998",
+            "stemRot": "0",
+            "stemWid": "7.5499999999999998",
+            "step": "0.5",
+            "stepsize": "50",
+            "topthickness": "3",
+            "wallthickness": "1.1000000000000001"
+        }
+    }
+}
