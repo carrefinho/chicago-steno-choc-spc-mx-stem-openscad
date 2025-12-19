@@ -1,6 +1,11 @@
 <!-- omit from toc -->
 # Chicago Stenographer Keycaps - Optimized for JLCPCB 3D printing
 
+> [!IMPORTANT]
+> This is a fork of [infused-kim/kb_keycaps_chicago_stenographer](https://github.com/infused-kim/kb_keycaps_chicago_stenographer) which is a downstream fork of [pseudoku/PseudoMakeMeKeyCapProfiles](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles).
+> 
+> You can find an incomplete set of STLs of Chicago Steno with MX stem in [the stl folder](./stl/). They have cuts on the sides for FDM printing and slightly higher height compared to original version.
+
 This fork combines multiple chicago stenographer keycaps with sprues into one file to get around the $1 minimum charge of JLCPCB.
 
 If you like these keycaps after trying the 3D printed version, [consider buying original versions from the creator at asymplex.xyz](https://www.asymplex.xyz).
